@@ -3,7 +3,7 @@ import discord
 from discord import app_commands
 from dotenv import load_dotenv
 
-from Massage import MessageList
+from Message import MessageList
 
 
 def main():
